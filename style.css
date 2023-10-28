@@ -114,6 +114,9 @@ html{
 }
 
 /* Bottom Navbar */
+.navbar-bottom{
+    height: 8%;
+}
 .showcase .navbar-bottom{
     width: 100%;
     background: #cfcfcf;
